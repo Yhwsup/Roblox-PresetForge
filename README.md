@@ -42,5 +42,4 @@ or `python3 tools/build_rbxmx.py` if you don't have Rojo.
 
 ## Status
 
-Written without access to a Luau runtime, so it hasn't been run in Studio yet.
 Please report any errors from the Output window as issues.
